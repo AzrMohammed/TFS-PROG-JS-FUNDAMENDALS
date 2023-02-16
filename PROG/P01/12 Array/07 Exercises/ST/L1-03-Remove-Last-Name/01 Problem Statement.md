@@ -1,12 +1,12 @@
 # Problem Statement   
 
-By default declare a variable as "studentNames" with string array value with total of 3 names Arul, Ashok, Arivu         
+Find the leap years in a given range of years.      
 
-Print the names and total count of names from studentNames     
+Print the leap years in between given range of years    
 
-Remove "Arivu" from "studentNames" data     
+If the given range of year is 1990 to 2000
 
-Print the names and total count of names from studentNames     
+Print [1992,1996,2000]     
 
 
 ## Rules
@@ -22,11 +22,8 @@ Print the names and total count of names from studentNames
 ## Sample I/O
 
 > #### Sample Input 1:
-> studentNames = ["Arul", "Ashok", "Arivu"]
->
+> startYear = 1983
+> endYear = 2050
 > ##### Output:
-> ["Arul", "Ashok", "Arivu"]
-> 3
->
-> ["Arul", "Ashok"]
-> 2
+>  [ 1984,1988,1992,1996,2000,2004,2008,2012,2016,2020,2024,2028,2032,2036,2040,2044,2048]
+> 
