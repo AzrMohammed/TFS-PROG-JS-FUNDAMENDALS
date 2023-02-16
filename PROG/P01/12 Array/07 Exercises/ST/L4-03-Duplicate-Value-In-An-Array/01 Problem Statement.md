@@ -2,6 +2,7 @@
 
 Write a JavaScript program to find duplicate values in a JavaScript array. 
 
+
 ## Rules
 * If an array with [2,3,4,3,4,4,1], find the duplicate values and push those values into another array.
     * Print [3,4]
