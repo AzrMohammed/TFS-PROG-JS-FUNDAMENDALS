@@ -23,8 +23,8 @@ Given two values, write a program to find out which one is nearest to 75.
 > “number2 is nearest to 75”
 
 > #### Sample Input 2:
-> number1 = 97
-> number2 = 28
+> number2 = 97
+> number1 = 28
 >
 > #### Output:
 > “number1 is nearest to 75”
@@ -34,4 +34,4 @@ Given two values, write a program to find out which one is nearest to 75.
 > number1 = 78
 >
 > #### Output:
-> “Both the number are near to 75”
+> “Both the number are not nearest to 75”
